@@ -3,7 +3,7 @@ import re
 from datetime import timedelta
 from googleapiclient.discovery import build
 
-api_key = 'AIzaSyAr1Cdl_aSD04QG2OZ8QJQZWvoNcxt_iHM'
+api_key = 'someAPI key'
 youtube = build('youtube', 'v3', developerKey=api_key)
 
 pl_request = youtube.playlistItems().list(
