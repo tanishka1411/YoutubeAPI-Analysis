@@ -6,7 +6,7 @@ Using this API we can grab useful information that might not be easily found on 
 `pip install google-api-python-client`
 ## User guide for Getting Started
 * https://github.com/googleapis/google-api-python-client/blob/master/docs/start.md
-## Some important links
 
+## Some important links 🔗
 * https://googleapis.github.io/google-api-python-client/docs/dyn/youtube_v3.html
 * https://developers.google.com/youtube/v3
